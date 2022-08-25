@@ -10,7 +10,7 @@ The data consists of the transcripts of the interviewer and the task is to ident
 
 > There are more than 150 classes and more than 2 lakh samples in the prompt.
 
-- Model used distilbert-base-uncased-finetuned-sst-2-english
+- Model used **distilbert-base-uncased-finetuned-sst-2-english**
 
 ## Wandb Analysis Report
 <!-- display images -->
