@@ -13,5 +13,8 @@ The data consists of the transcripts of the interviewer and the task is to ident
 - Model used distilbert-base-uncased-finetuned-sst-2-english
 
 ## Wandb Analysis Report
-
-<iframe src="https://wandb.ai/justalearner/DistilBert-SST-2/reports/Interview-subject-classification--VmlldzoyNTI2NTIz" style="border:none;height:1024px;width:100%"></iframe>
+<!-- display images -->
+<img src="InterviewClassification\charts\Section-2-Panel-0-3x8ff61ib.png" width="100%">
+<img src="InterviewClassification\charts\Section-2-Panel-1-fnurli7dq.png" width="100%">
+<img src="InterviewClassification\charts\Section-2-Panel-2-bqt23i8lw.png" width="100%">
+<img src="InterviewClassification\charts\Section-2-Panel-3-ji3bwgkg8.png" width="100%">
